@@ -1,0 +1,9 @@
+Physics Short, 10 s: Earth on the left, the Moon on the right, side by
+side. In each, a hammer and a feather drop together from the same
+height. On Earth the feather drifts down slowly (air); on the Moon
+both land at once.
+Simulate once when the page loads, with a fixed step, into an array;
+then draw each frame by looking up the time. Never step the
+simulation per frame.
+Captions: "Drop a hammer and a feather. Which lands first?" /
+"On the Moon, with no air: both. Apollo 15 tried it in 1971".

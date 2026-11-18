@@ -1,0 +1,8 @@
+Make three thumbnail options for [video] as stills, drawn with my
+style sheet, at 3840x2160 (2160x3840 for a Short):
+A) one big object, opened up or cut away, and at most 3 words ending
+   in "?"
+B) a before/after with one number, both sides labelled
+C) one dramatic image and a short question
+Keep every word clear of the main object. Put the three side by side
+so I can pick at phone size.

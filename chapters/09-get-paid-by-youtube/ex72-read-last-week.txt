@@ -1,0 +1,2 @@
+Read last-week.csv. In 5 lines: what worked, what didn't, and why,
+using the numbers. Then name the one pattern my best 3 Shorts share.

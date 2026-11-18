@@ -1,0 +1,13 @@
+Run my weekly check on the last 10 videos and this week's numbers.
+For each row, give the count, then name ONE change for next week.
+1. Pairs of videos with the same storyline AND the same ending.
+2. Highest first-frame sameness score between any two videos
+   (the share of matching light/dark squares in a 16x16 grey copy
+   of the frame at 1.0 s; flag above 0.85).
+3. Voices and speeds used (how many distinct).
+4. Factual lines with no source line in their fact check.
+5. Each video's biggest drop-off second and the line spoken there.
+6. Plan usage this week (from /usage) and cost per video (from costs.md).
+7. Months to the 500-subscriber tier (from revenue-model.md).
+8. Offers: messages sent, replies, sales (from prices.md).
+Do not tell me the channel is fine. Show the counts.

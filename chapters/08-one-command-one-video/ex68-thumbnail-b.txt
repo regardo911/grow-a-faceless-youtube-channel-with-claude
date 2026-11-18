@@ -1,0 +1,5 @@
+Make a second thumbnail still for the Moon video at 3840x2160, drawn
+with the style sheet: a before/after, a tall bar and a short one, each
+labelled, with one number.
+Render it with npx -y hyperframes@0.9.64 snapshot --at 0.5 --no-end -o .
+Put "UP TO 85°" on the bar.

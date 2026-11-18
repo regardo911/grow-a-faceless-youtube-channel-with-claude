@@ -1,0 +1,6 @@
+Run npx -y hyperframes@0.9.64 transcribe narr.wav --json. Then make
+timing.json: give every word of script.txt a start and end time by
+matching the script's words to the transcript's in order, and spread
+the times across any word the transcript heard differently. Tell me
+the word counts of both and every word that didn't match.
+No time may be later than the length of narr.wav.

@@ -1,0 +1,5 @@
+Make a voice plan for my channel: the hook a little faster, the
+mechanism a little slower, and a second voice for quoted lines.
+Test it on the Moon Short: voice the hook at speed 1.1 and the
+"four hundred times" line at 0.9, and one line in bf_emma. Tell me
+every length.

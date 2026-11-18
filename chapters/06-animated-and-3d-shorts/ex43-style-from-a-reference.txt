@@ -1,0 +1,6 @@
+Analyze moon-3d.mp4 as a format, not as content to copy.
+Extract a frame every 0.5 s with ffmpeg and look at them.
+Write style_guide.md: palette in hex, type, framing, how much of the
+frame the subject fills, camera move, how often captions change,
+banned looks. Then make a new 10 s Short in that style:
+"What if Earth spun twice as fast?"

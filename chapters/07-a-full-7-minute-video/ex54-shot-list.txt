@@ -1,0 +1,6 @@
+Split script.txt into shots from timing.json. One shot per idea.
+For each: the words it covers, start, end, length, what's on screen,
+how the camera moves and why. Reuse a small set of scene types
+(a sky, a planet from above, a chart, a card, a photo). Then tell me
+the average and the longest shot.
+No shot longer than 15 seconds.

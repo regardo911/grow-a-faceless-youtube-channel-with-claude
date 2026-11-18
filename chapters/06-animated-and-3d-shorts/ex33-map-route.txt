@@ -1,0 +1,8 @@
+Make a 11 s vertical Short: the loudest sound in history. A real map
+of the Indian Ocean from world-atlas land data (save the data into the
+project, don't fetch it while rendering), drawn with d3-geo.
+Red pulses ring out from Krakatoa. From 3.8 s a dashed line draws
+along the great circle to Rodrigues Island, then its label appears.
+Captions: "The loudest sound in history" / "Krakatoa, 1883: heard
+4,800 km away" / "People there thought it was gunfire".
+Compute the great-circle distance and tell me.

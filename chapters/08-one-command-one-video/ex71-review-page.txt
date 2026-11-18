@@ -1,0 +1,5 @@
+Build review.html in this folder: a video player for any MP4 I name
+in the address (?video=...), a notes box, and an Add note button that
+saves the note with the current second. Clicking a note jumps to that
+second. A Save button downloads the notes as notes.json for the next
+run to read. Plain HTML, no server needed.

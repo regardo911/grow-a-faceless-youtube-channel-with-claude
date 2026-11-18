@@ -1,0 +1,17 @@
+name: tests
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: setup script
+        run: |
+          out=$(bash tests/test-setup.sh)
+          echo "$out"
+          echo "$out" | grep -qE '^[1-9][0-9]* checks passed, 0 failed$'
+      - name: file layout
+        run: |
+          out=$(bash tests/check-files.sh)
+          echo "$out"
+          echo "$out" | grep -qE '^[1-9][0-9]* checks passed, 0 failed$'

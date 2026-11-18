@@ -1,0 +1,7 @@
+Using /hyperframes, build index.html from scenes.json in one look
+(navy night sky, flat planets, white captions with one yellow
+keyword), but don't render yet. Captions from timing.json, 4 words at
+most per group. Then run
+npx -y hyperframes@0.9.64 snapshot --at 2,12.4,33 --no-end
+and npx -y hyperframes@0.9.64 check. Show me the stills and every
+warning.

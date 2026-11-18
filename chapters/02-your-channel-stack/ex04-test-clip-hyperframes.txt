@@ -1,0 +1,10 @@
+Using /hyperframes, make a 5-second vertical test clip (1080x1920).
+Dark navy sky. A pale Moon in the upper half that shrinks and fades
+out between 1.4 s and 4 s.
+Caption in the lower half, white, heavy font:
+"What if the Moon vanished tonight?"
+Play narr.wav from 0.1 s.
+Run npx -y hyperframes@0.9.64 check and fix every error, then
+render with npx -y hyperframes@0.9.64 render -o out.mp4.
+Tell me the file size and the render time.
+Have the caption on screen from frame 0.

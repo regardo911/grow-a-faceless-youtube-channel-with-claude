@@ -1,0 +1,13 @@
+Using /hyperframes, make a 12-second vertical Short (1080x1920, 30 fps)
+in a 3D cartoon style with three.js.
+Scene: Earth in space with the Moon circling it. A thin, see-through
+layer of ocean bulges toward the Moon.
+At 3.6 s the Moon swells for a beat, then shrinks to nothing.
+The ocean bulge relaxes over the next 3 seconds.
+Slow camera push-in for the whole clip.
+Captions in the top third, white with one yellow keyword each:
+0-3.6 s   "What if the Moon vanished tonight?"
+5-8.4 s   "The tides would shrink by two thirds"
+8.6-12 s  "and every night would go darker"
+Every frame must be a function of time. Run npx -y hyperframes@0.9.64
+check, fix every error, then render to moon-3d.mp4.

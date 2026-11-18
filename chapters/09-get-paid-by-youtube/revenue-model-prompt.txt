@@ -1,0 +1,11 @@
+Build revenue-model.md from my numbers. Inputs: long videos per month
+[4], Shorts per month [30], views per long video in its first month
+[my number], views per Short [my number], average view duration on
+long videos [mm:ss], subscribers per 1,000 views for Shorts and for
+long videos [from Studio], monthly growth in views per video [my
+guess, say 10-15%], my RPM [blank until I'm paid]. For each of the
+next 24 months: watch hours (rolling 12 months), Shorts views
+(rolling 90 days), subscribers, and the month I reach (a) the
+500-subscriber tier and (b) full Partner Program pay under the
+February 1, 2027 rules. Then tell me which single input moves those
+dates most.

@@ -1,0 +1,4 @@
+Remake the Krakatoa map Short from Example 33 in this client's style
+sheet: parchment background #efe4c8, ink #3b2f22, accent red #a4161a,
+EB Garamond for the captions, no stars, no navy. Same facts, same
+timing. Render and show me three frames.

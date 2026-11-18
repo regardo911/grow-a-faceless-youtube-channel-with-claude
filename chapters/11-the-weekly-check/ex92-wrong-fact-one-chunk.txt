@@ -1,0 +1,5 @@
+The sentence from 296.83 s to 306.96 s is wrong. Write a correct line
+that says the same thing in about the same time, voice it alone in the
+same voice and speed, stretch it to exactly 10.13 s if it's within 3%,
+splice it into narr.wav, update the captions and the on-screen label,
+and re-render only the chunk from 240 to 360 s.

@@ -1,0 +1,6 @@
+Run npx -y hyperframes@0.9.64 check and fix every error. Then render
+with npx -y hyperframes@0.9.64 render -o out.mp4. Run ffprobe on it,
+and make a contact sheet: 12 frames spread across the video, 6 across.
+Look at the contact sheet as a harsh motion director, not a proud
+author, and tell me the worst problem with a timestamp and a one-line
+fix.

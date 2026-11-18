@@ -1,0 +1,6 @@
+Add sound: a soft pop when the Moon vanishes, a low thump under the
+recap, and a short whoosh on no more than 3 scene changes. Make the
+sounds in code from a list of cue times (no AI music model). If I give
+you a track from the YouTube Audio Library, put it under the voice at
+a level where every word stays clear. Then measure the loudness of the
+final mix.

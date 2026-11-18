@@ -1,0 +1,9 @@
+[subject] What if Earth had rings like Saturn?
+[look] 3D cartoon style with three.js: toon-shaded Earth, flat blue
+ocean, a few green continents, a banded beige ring, black starry sky.
+[motion] The ring grows out from the planet in the first second; the
+camera drifts slowly; at 3.6 s it drops level with the equator.
+[captions] Top third, white with one yellow keyword: "What if Earth
+had rings?" / "From the equator: a thin line" / "From your town: a
+giant arch"
+[format] 10 s, 1080x1920, every frame drawn from the time alone.

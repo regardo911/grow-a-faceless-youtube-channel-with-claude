@@ -1,0 +1,6 @@
+Write upload.py (Python 3.13, google-api-python-client and
+google-auth-oauthlib in a venv) that uploads a video from upload.json:
+title, description, tags, category, made-for-kids No, the AI-use
+answer, and either Public or scheduled with publishAt. Use the
+youtube.upload scope. Save the sign-in to token.json and sign in again
+if the token has expired. Add --dry-run to print what it would send.

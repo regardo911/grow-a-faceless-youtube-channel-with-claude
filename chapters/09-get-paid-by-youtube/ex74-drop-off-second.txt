@@ -1,0 +1,4 @@
+Read retention-v01.csv. v01 is 56 seconds long and its script lines
+start at these seconds: [the 14 line start times from timing.json].
+Find the second where the most viewers leave, the line being spoken
+there, and one fix I can make in the script.

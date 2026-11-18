@@ -1,0 +1,4 @@
+Add narration to the Moon-leaving kinetic Short: "The Moon is leaving.
+Three point eight centimeters every year. We know because we bounce
+lasers off mirrors Apollo crews left behind." Voice am_michael. Make
+sure the narration fits inside the video.

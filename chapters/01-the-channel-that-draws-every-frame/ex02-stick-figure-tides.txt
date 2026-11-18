@@ -1,0 +1,12 @@
+Using /hyperframes, make a 12-second vertical Short (1080x1920) in a
+stick-figure style: black lines on an off-white page, one red keyword
+per caption.
+0-4 s: a stick figure points at the Earth and asks the question.
+4-8 s: the Moon slides in from the right and the sea stretches into
+two bulges, one facing the Moon and one on the far side. Label both
+"high".
+8-12 s: a tiny stick figure rides the spinning Earth through both
+bulges.
+Captions: "Why does the beach get two high tides a day?" /
+"The sea bulges on both sides of Earth" / "You spin through both bulges".
+Draw it on a canvas from the time alone. Check, then render.

@@ -1,0 +1,6 @@
+Write a brand-motion file for channel 2 like the one from Chapter 10,
+Example 79: name, the colours from the style sheet, Archivo Black,
+the end card ("How does it work? Subscribe" held 2 seconds), and the
+motion personality (precise, mechanical, no bounce). Then list every
+file in channel 2's folder that mentions channel 1, so I can change
+them.

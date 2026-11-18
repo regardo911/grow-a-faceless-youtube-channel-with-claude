@@ -1,0 +1,5 @@
+Copy my-channel to a new folder, channel-2, leaving out videos/. Rename
+the skill folder .claude/skills/channel-short to machine-short, and
+change the name: and description: lines in its SKILL.md to match. Don't
+change any of the steps. Don't name the folder synced, that name is
+reserved.

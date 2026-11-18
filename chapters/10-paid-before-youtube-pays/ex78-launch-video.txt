@@ -1,0 +1,9 @@
+Take two screenshots of review.html with Playwright: empty, and with
+two notes added. Then make a 20-second 1080x1080 launch video:
+0-4 s  kinetic type: "Your notes keep losing their timestamp"
+4-9 s  the empty screen floats in on a card
+9-15 s the screen with notes, zooming in on the notes list, with the
+       line "Pause. Type. Every note keeps its second."
+15-20 s end card: "Review in one click" and "review.html · free"
+Dark background #101318, mint accent #8AD8B0.
+Wait until the video shows a frame before the screenshot.

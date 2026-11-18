@@ -1,0 +1,5 @@
+Reverse-engineer the channel Mechanim from its rows in
+outliers-howitworks.csv. One page: what works (its outliers), what
+flops, its title pattern, its typical length, how it seems to make
+money, one thing I should copy and one thing I should avoid. Quote the
+numbers from the file.

@@ -1,0 +1,26 @@
+You are the director, animator and render engineer for a 7-minute
+documentary made in code. Treat this as a multi-session production.
+Don't rush to a final render.
+
+THE FILM IN ONE LINE
+"The Night the Moon Disappeared": what would change on Earth, from
+the first night to the next billion years, if the Moon vanished.
+
+INPUTS
+- script.txt (approved, 986 words) and sources.md (a source per fact)
+- narr.wav and timing.json (approved narration, word timings)
+- CLAUDE.md: channel brief and style sheet. 1920x1080 for this one.
+- assets/: two NASA photos. Use nothing else that you didn't draw.
+
+STRUCTURE
+Cold open (the first minute) / Chapter 1: The first night /
+Chapter 2: The first year / Chapter 3: The next billion years / close.
+A chapter card at each "Chapter" line.
+
+GATES (stop and show me at each one)
+1. Scene plan: every scene with its start, end and what's on screen.
+2. Stills of every scene, one frame each.
+3. Chunk 1 (0-120 s) rendered.
+4. The rest, then the whole film.
+Captions from timing.json. Check with npx -y hyperframes@0.9.64
+check at every gate.

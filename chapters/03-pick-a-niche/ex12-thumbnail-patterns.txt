@@ -1,0 +1,6 @@
+Download the thumbnails of the 8 highest-scoring videos from
+outliers-science.csv and outliers-howitworks.csv with yt-dlp
+(--write-thumbnail --skip-download), skip installation videos, and
+tile them into one image. Then make a table: main object, how many
+words, does the text end in "?", is the object cut open or exploded,
+does it say "3D animation".

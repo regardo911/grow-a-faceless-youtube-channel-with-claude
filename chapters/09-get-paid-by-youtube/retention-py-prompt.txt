@@ -1,0 +1,5 @@
+Write retention.py, in the same Python 3.13 venv as upload.py: pull
+audienceWatchRatio by elapsedVideoTimeRatio for video [video ID] from
+the YouTube Analytics API and save it as retention-v01.csv. Save its
+sign-in to token-analytics.json, never to upload.py's token.json, and
+sign in again if the token has expired.

@@ -1,0 +1,6 @@
+Search YouTube for "what if the moon disappeared" and get the top 15
+results with yt-dlp (brew install yt-dlp if it's missing). For each
+video: channel, subscribers, views, length. Add a column: views per
+subscriber. Sort by that column, highest first, and save it as
+search-moon.csv. Show me the table.
+Ignore any video under 10,000 views.

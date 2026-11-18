@@ -1,0 +1,5 @@
+Build the captions from timing.json: groups of 4 words or fewer,
+each group on screen for at least 1 second, white with one yellow
+keyword, at y = 1000, with 220 px of padding on the right so nothing
+sits under the Shorts buttons. Draw them in the composition, never
+with ffmpeg. Run check and show me every caption warning.

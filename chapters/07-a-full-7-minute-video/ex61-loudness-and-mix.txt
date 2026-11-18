@@ -1,0 +1,4 @@
+Measure the loudness of the film. If it's quieter than -16 LUFS,
+bring the audio to -14 LUFS with ffmpeg's loudnorm, copying the video
+unchanged. If I give you an Audio Library track, place it under the
+voice and tell me any moment where it's louder than the narration.

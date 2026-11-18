@@ -1,0 +1,7 @@
+Whiteboard Short, 10 s, white background, black marker strokes with a
+slight wobble, one red: How can one person lift a car? Draw a triangle
+pivot, then a long plank, then a box (the car) on the short end, then
+a red arrow pushing down on the long end. From 6 s the plank tips.
+Labels "x2 distance" and "1/2 force".
+Captions: "How can one person lift a car?" /
+"Push twice as far from the pivot, need half the force".

@@ -1,0 +1,6 @@
+Animate each scene in index.html so its main move starts on the first
+word of the scene's line, from timing.json. Use three speeds only:
+snappy (0.3 s, slight overshoot) for pops and labels, smooth (1.5 s)
+for things that move across the frame, and slow (the whole scene) for
+drifts. Something must change on screen at least every 3 seconds.
+Every frame must be drawn from the time alone.

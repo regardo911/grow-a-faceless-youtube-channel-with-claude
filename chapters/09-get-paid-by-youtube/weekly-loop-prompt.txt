@@ -1,0 +1,4 @@
+Read weekly.md and run it on this week's export, retention files and
+scripts. Write week-NN.md: the 5-line read-out, each video's drop-off
+second and line, next week's 7 topics, and the originality table.
+Then update revenue-model.md with this week's real numbers.

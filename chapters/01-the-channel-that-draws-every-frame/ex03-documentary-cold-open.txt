@@ -1,0 +1,12 @@
+Make the cold open of a long-form YouTube documentary,
+"The Night the Moon Disappeared". 1920x1080.
+1. Voice the script in script.txt with npx -y hyperframes@0.9.64 tts,
+   voice am_michael, speed 0.85. Tell me the length.
+2. Get word timings with npx -y hyperframes@0.9.64 transcribe
+   narr.wav --json.
+3. Build the scenes on those timings: night sky and Moon, the Moon
+   fading out, the sky going dark, Earth from above with its two tidal
+   bulges, a bar chart (tide today vs Sun only), then a title card with
+   three chapter chips.
+4. Captions from the timings, 3 to 5 words at a time, near the bottom.
+5. Check, then render to opener.mp4.

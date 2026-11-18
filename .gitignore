@@ -1,0 +1,5 @@
+# google sign-in files from upload.py and retention.py: never commit them
+client_secret.json
+token*.json
+.env
+.DS_Store

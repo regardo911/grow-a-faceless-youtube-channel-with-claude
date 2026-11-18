@@ -1,0 +1,3 @@
+Re-record only this sentence: "[SENTENCE]"
+Problem: [rushed / mispronounced word / dragging]
+Record it alone at 1.1x and leave the rest of the track untouched.

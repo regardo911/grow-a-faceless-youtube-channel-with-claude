@@ -1,0 +1,4 @@
+cd ~
+npx -y create-video@4.0.544 --yes --hello-world remotion-test
+cd remotion-test
+npx remotion skills add

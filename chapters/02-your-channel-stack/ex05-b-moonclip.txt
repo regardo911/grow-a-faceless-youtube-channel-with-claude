@@ -1,0 +1,6 @@
+Add a new Remotion composition called MoonClip: 1080x1920, 30 fps,
+5 seconds. Dark navy radial background. A pale Moon at the top that
+shrinks to 60% and fades out between frame 42 and frame 120. The
+caption "What if the Moon vanished tonight?" in white, 76 px, heavy,
+rising 40 px with a spring. Register it in Root.tsx, then render it
+with npx remotion render MoonClip out/moon.mp4.

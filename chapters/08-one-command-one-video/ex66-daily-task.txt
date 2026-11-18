@@ -1,0 +1,6 @@
+Take the oldest folder in videos/approved/. Work inside that folder
+and run /channel-short from step 4 on, keeping its approved
+script.txt as it is.
+Set the AI-use answer in upload.json to [No / Yes], run upload.py
+on it, then move the folder to videos/posted/. Write one line to
+log.md with the date, title and video link.

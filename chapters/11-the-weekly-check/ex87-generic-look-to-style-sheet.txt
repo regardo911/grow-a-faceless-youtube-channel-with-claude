@@ -1,0 +1,3 @@
+Remake this in the black ink line-art look from Example 47: strokes
+drawn on, one blue accent, a stick figure looking up, the light
+scattering. No gradient, no corner label, nothing fading in.

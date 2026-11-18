@@ -1,0 +1,5 @@
+Fix the beetle, the coral and the static frame as I described. Rebuild
+the captions: groups of at most 7 words, each on screen at least
+2.2 seconds. No sound effect anywhere a real thing doesn't happen.
+Run check again, then render the whole film.
+Never join two sentences in one caption.

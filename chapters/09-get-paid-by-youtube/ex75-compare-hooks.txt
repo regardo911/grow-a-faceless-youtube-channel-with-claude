@@ -1,0 +1,3 @@
+Read hooks.csv: two versions of the same Short with different first
+lines. Which kept more viewers, by how much, and what should I test
+next?

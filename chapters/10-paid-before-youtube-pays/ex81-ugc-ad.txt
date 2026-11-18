@@ -1,0 +1,7 @@
+Make a 15-second vertical ad as a text-message conversation on a
+light background. Grey bubbles from "Sam", blue bubbles from me:
+"how are you posting a short every single day??" /
+"I type the idea. Claude writes it, voices it and draws it" /
+"no editor??" / "no editor. the video is code. 18 seconds to render" /
+"ok send me the book". Each bubble pops in on its own beat.
+Bubbles spread down the full height, no single word on its own line.

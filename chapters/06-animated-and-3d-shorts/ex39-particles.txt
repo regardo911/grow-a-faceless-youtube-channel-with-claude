@@ -1,0 +1,6 @@
+Particle Short, 10 s: How does a cloud form? Blue sky, green ground.
+900 particles, seeded so every render is identical, rise from the
+ground, slow as they pass a dashed "cooler" line, then grow and
+gather into a cloud.
+Captions: "How does a cloud form?" / "Warm air rises, cools, and its
+water vapor turns into droplets".

@@ -1,0 +1,4 @@
+Take the 20 highest-scoring videos by views per subscriber across
+outliers-science.csv and outliers-howitworks.csv. Write 3 to 5
+fill-in-the-blank title formulas they share. Under each formula, list
+the 2 real titles it came from with their views per subscriber.

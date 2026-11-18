@@ -1,0 +1,7 @@
+Read CLAUDE.md, niche-brief.md and the prompts I used in Chapters 3
+to 7 (they're in my notes). Write .claude/skills/channel-short/SKILL.md:
+one idea in, one finished Short out. Steps in order: facts with
+sources, script, fact check (always last), voice one line at a time,
+word timings matched to the script, scene list, build by the style
+sheet, check and look at the frames, render, three thumbnails, upload
+text. Stop and ask only if a step fails twice.

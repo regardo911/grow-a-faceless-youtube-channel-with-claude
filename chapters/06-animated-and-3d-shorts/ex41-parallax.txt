@@ -1,0 +1,6 @@
+2.5D parallax Short, 10 s, sunset palette. Four flat ridge layers,
+far to near, moving left at 20, 60, 140 and 320 px per second, a pale
+sun behind them. From 4.5 s a dashed sightline draws from the bottom
+left to the horizon.
+Captions: "How far away is the horizon?" /
+"From eyes 1.7 m above a calm sea: about 4.7 km".

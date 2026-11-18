@@ -1,0 +1,3 @@
+Voice channel 2's first script with npx -y hyperframes@0.9.64 tts in
+bm_george, the British male voice, at normal speed. Tell me the length
+and the words per second, and compare with am_michael on channel 1.

@@ -1,0 +1,5 @@
+For the laser-reflector scene and the closing scene, find one photo
+each that I'm allowed to use in a monetized video. Use only images
+whose own page states how they may be used, save them to assets/, and
+write the source and the usage line for each into sources.md. Show
+each one with a slow 12% zoom.

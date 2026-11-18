@@ -1,0 +1,5 @@
+Add a lower third over the Apollo photo, from 368.5 s to 381 s: a dark
+bar with a yellow left edge, "Apollo 11 laser reflector" in the
+heading font, "left on the Moon in 1969 · still in use" underneath.
+Slide it in, fade it out. Keep it clear of the caption band. Re-render
+only the last chunk, then rebuild the film from the chunks.

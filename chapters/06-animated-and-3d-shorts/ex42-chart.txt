@@ -1,0 +1,7 @@
+Data chart Short, 10 s, dark background. Horizontal bars, one per
+planet, growing one after another, value labels counting up: Jupiter
+9.9 h, Saturn 10.7, Neptune 16.1, Uranus 17.2, Earth 23.9, Mars 24.6
+(hours to spin once, NASA planetary fact sheets). From 4.2 s every bar
+but Jupiter dims.
+Captions: "How long does each planet take to spin once?" /
+"Jupiter: under 10 hours. Biggest planet, shortest day".

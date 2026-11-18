@@ -1,0 +1,15 @@
+I'm choosing between 3 niches. For each niche below, get every
+channel's subscriber count and its last 30 long videos (views, length,
+title) with yt-dlp. Score every video two ways: views per subscriber,
+and views divided by that channel's median views. Then give me, per
+niche: the median views per subscriber, how many videos beat their
+channel's subscriber count, and the top 5 videos by score. Save each
+niche's videos as outliers-<niche>.csv (here outliers-science.csv,
+outliers-history.csv, outliers-howitworks.csv), one row per video with
+its ID, channel, title, length, views, subscribers and both scores.
+Science "what if": @whatifscienceshow @tracing.science
+  @ColossalCranium @ThePaintExplainer @SolarBalls
+History mysteries: @jaydonehistory @TheUnchartedMysteries
+  @HiddenTruths9 @CrownedCryptid @pastimers
+How it works: @animagraffs @BranchEducation @Mechanimation
+  @carinfo3d-En @EngineeringMindset

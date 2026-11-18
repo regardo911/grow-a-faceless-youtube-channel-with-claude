@@ -1,0 +1,6 @@
+Scale-zoom Short, 10 s, black background: From one grain of sand to
+the whole Earth. Objects stand on one baseline: a grain of sand (1 mm),
+you (1.7 m), the Eiffel Tower (330 m), Everest (8.8 km), Earth
+(12,742 km). The camera zooms out on a log scale so each one fills
+the frame in turn, each with a size label.
+Caption: "From one grain of sand to the whole Earth".

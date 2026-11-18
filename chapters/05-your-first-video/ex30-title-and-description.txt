@@ -1,0 +1,5 @@
+Write 5 titles for this Short from the title formulas in
+niche-brief.md, each under 60 characters, and mark the one you'd pick.
+Then write the description: two lines that make someone want to
+watch, a blank line, then the source of every fact in the script, from
+the fact check. No hashtags in the description except #shorts.

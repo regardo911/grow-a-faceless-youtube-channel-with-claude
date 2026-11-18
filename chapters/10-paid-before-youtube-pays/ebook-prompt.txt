@@ -1,0 +1,6 @@
+Build ebook.md from the final script.txt and sources.md in every
+video folder under videos/, including videos/posted/: one short
+chapter per video, its title question as the heading, then the
+script as plain paragraphs, then its sources as a numbered list.
+Check every fact again against its source line, then lay the book
+out as ebook.pdf with a contents page.

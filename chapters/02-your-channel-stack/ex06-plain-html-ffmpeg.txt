@@ -1,0 +1,8 @@
+Make a 5-second 1080x1920 clip with no video framework.
+1. index.html: one canvas and a function window.seek(t) that draws
+   the frame at second t from t alone (navy sky, a Moon that shrinks
+   and fades between 1.4 s and 4 s, the caption in system fonts).
+2. render.mjs: Playwright opens the page, calls seek for every frame
+   at 30 fps, screenshots the canvas and pipes each PNG into ffmpeg
+   (libx264, yuv420p).
+3. Install Playwright, run it, and tell me how long it took.

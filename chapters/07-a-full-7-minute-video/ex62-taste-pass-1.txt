@@ -1,0 +1,5 @@
+Make a contact sheet of the whole film, one frame every 17 seconds,
+and run npx -y hyperframes@0.9.64 check. Then be a harsh director:
+list every problem and every stretch where nothing new happens, with
+timestamps.
+Don't fix anything yet.

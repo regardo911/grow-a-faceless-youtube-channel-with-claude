@@ -1,0 +1,4 @@
+The lever tips the wrong way. The side being pushed down must go
+down and the car's side must go up. Fix the direction and nothing
+else, and write the rule into the prompt as one line so it can't
+happen again.

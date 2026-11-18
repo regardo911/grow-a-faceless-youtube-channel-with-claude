@@ -1,0 +1,5 @@
+Voice script.txt three times with npx -y hyperframes@0.9.64 tts,
+voices af_heart, am_michael and bm_george, into voices/. Tell me the
+length of each file. If ELEVENLABS_API_KEY is set in .env, also make
+one with ElevenLabs at its default settings (stability 0.5,
+similarity_boost 0.75, style 0, speed 1) using @elevenlabs/elevenlabs-js.

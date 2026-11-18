@@ -1,0 +1,5 @@
+Write prop.py for Blender, run it headless with
+/Applications/Blender.app/Contents/MacOS/Blender -b --python prop.py:
+a laser reflector like the ones Apollo crews left on the Moon, a
+tilted metal tray of 10 x 10 round reflector cups on two legs, grey
+dusty ground, one hard sun. Render a 6-angle look sheet at 540 px.

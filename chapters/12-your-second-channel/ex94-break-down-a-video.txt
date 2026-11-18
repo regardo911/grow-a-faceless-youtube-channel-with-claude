@@ -1,0 +1,2 @@
+Install https://github.com/JuneYaooo/rea-video, then break down this
+video: videos/moon-short.mp4. English report, no vision model.

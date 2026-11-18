@@ -1,0 +1,7 @@
+Voxel Short, 10 s, three.js, cubes with a small gap between them:
+Drop Everest into the deepest ocean. A column of blue water blocks
+11 high (the trench, about 11 km); a grey stepped mountain 9 blocks
+high (Everest, 8.8 km) with a white snowy top drops in from above and
+sinks out of sight. Camera follows it down.
+Captions: "Drop Everest into the deepest ocean" /
+"It vanishes, with about 2 km of water to spare".

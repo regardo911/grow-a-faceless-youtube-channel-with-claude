@@ -1,0 +1,20 @@
+## Style sheet (every Short)
+- Background: [colour code(s)], [texture or none].
+- Palette: [main colours by name and code]; accent [code], one
+  keyword per caption only.
+- Look: [flat 2D / toon 3D / line art / cutaway], one subject at a
+  time.
+- Type: [font]. Captions [colour], [size] px, [N] words at most per
+  group, each group on screen at least 1.0 s (a group may start a
+  moment after its first word to get there), top at y = [N], left
+  padding [N] px, right padding 220 px.
+- Framing: the subject inside the middle 80% of the frame; nothing
+  important behind the caption band; every label fully on screen.
+- Frame 0 shows the subject and the question. Something changes at
+  least every 3 seconds.
+- Motion: snappy 0.3 s for pops, smooth 1.5 s for moves, slow drifts.
+- Truth: every number on screen has a source; every caption has a
+  frame that shows it; the mechanism written as one line.
+- Banned: a centred title on a gradient, everything fading in,
+  corner labels, the same opening shot as the last video.
+- Match the look of refs/*.png.

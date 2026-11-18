@@ -1,0 +1,4 @@
+Add at most 2 ElevenLabs audio tags to script.txt, only where the
+meaning changes (for example [whispering] before "Now the Moon blinks
+out."). Use square-bracket tags only, no SSML. Make the narration with
+model eleven_v4 and save it as narr-tags.mp3.

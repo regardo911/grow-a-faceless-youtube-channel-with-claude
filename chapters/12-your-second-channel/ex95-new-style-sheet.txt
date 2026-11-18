@@ -1,0 +1,6 @@
+Write a style sheet for my second channel, everyday machines cut open:
+warm light-grey background, navy linework, one moving part in orange,
+brass and greys for everything else, side cross-sections and exploded
+views, a label with a leader line on every part the narration names.
+Keep my caption rules from channel 1. Add one truth rule: the
+mechanism written as one line in every prompt.

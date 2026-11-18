@@ -1,0 +1,5 @@
+Split the film into 2-minute chunks: 0-120, 120-240, 240-360 and
+360 to the end. For each: the scenes in it and the render command
+with --start and --end. Make a storyboard image: one frame per scene,
+grouped by chunk.
+Move each boundary to the nearest pause in timing.json.

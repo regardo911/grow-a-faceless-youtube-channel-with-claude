@@ -1,0 +1,5 @@
+Make a third thumbnail still for the Moon video at 3840x2160, drawn
+with the style sheet: a question with one dramatic image, the Sun half
+covered.
+Render it with npx -y hyperframes@0.9.64 snapshot --at 0.5 --no-end -o .
+Make the Moon dark grey, with a cream rim all the way round, fully inside the frame.

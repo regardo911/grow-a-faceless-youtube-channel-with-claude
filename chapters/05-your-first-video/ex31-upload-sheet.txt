@@ -1,0 +1,3 @@
+Write upload-sheet.md for this video: every field YouTube Studio asks
+for on upload, filled in, in the order Studio shows them. For the AI
+question, give my answer and YouTube's own line behind it.

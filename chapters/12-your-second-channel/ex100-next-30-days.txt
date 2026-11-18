@@ -1,0 +1,6 @@
+Write the next 30 days for both channels as one table: date, channel,
+video idea (from each channel's ranked list), Short or long, and the
+Sunday sitting for each channel (approve 7 scripts, renew the upload
+sign-in, run the weekly check). Channel 1: a Short a day plus 2 long
+videos a week. Channel 2: a Short a day. Flag any day where both
+channels have a long video.

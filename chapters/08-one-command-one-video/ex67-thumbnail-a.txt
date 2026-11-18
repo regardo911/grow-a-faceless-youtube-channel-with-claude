@@ -1,0 +1,4 @@
+Make a thumbnail still for the Moon video at 3840x2160, drawn with the
+style sheet: one big object and at most 3 words, ending in "?".
+Render it with npx -y hyperframes@0.9.64 snapshot --at 0.5 --no-end -o .
+Leave a clear gap between the words and the object.

@@ -1,0 +1,5 @@
+Voice script.txt one line at a time with npx -y hyperframes@0.9.64 tts
+(voice am_michael), one file per line in lines/. Then join them in
+order with 0.6 s of silence at the start and 0.36 s between lines into
+narr.wav. Tell me each line's length and the total. If the total is
+outside 45-55 s, change only the gaps, never the words.

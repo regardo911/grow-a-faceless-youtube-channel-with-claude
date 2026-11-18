@@ -1,0 +1,1 @@
+Run only steps 1 to 3 of the channel-short skill (facts, script, fact check) for each of these 7 ideas: [ideas].

@@ -1,0 +1,6 @@
+Exploded-view Short, 10 s, three.js, dark background, soft studio
+light: What's inside a battery? A grey cylinder; from 2 s it slides
+apart into four nested shells (case, blue cathode, white separator,
+black anode) that spread sideways, each turning slowly, the cap lifting.
+Captions: "What's inside a battery?" /
+"Two electrodes, a separator between them, rolled up tight".

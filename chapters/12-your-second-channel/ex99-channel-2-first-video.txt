@@ -1,0 +1,7 @@
+Make channel 2's first Short from script.txt and timing.json, by the
+style sheet. A side cross-section of a pin tumbler lock: five stacks
+of pins pressed down by springs, a brass plug, a dashed orange line
+where plug meets body. The right key slides in and lifts each stack.
+Mechanism rule: at rest the upper pins cross into the plug and block
+it; the right key lifts every gap exactly to the line; the wrong key
+leaves one pin across it.

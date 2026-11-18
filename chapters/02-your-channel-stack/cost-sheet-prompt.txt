@@ -1,0 +1,7 @@
+Make me a one-page cost sheet as costs.md.
+My Claude plan: [Pro / Max / Ultra] at $[price] a month.
+Other paid tools: [none, or name and monthly price].
+Videos per month I plan to post: [number].
+Show the monthly total, the cost per video, and a second row with
+ElevenLabs Starter at $6 a month added. Keep it as a markdown table
+I can update.

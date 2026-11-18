@@ -1,0 +1,5 @@
+Fact-check the final script. Make a table: every factual claim, the
+source that supports it (quote the line from the source), and PASS,
+FIX or CUT. Open each source to check it; do not check from memory.
+Rewrite any FIX line, delete any CUT line, and do not add new facts.
+Show me the final script and its word count.

@@ -1,0 +1,5 @@
+Read script.txt and timing.json. Make scenes.json: one scene per line
+of the script, starting on that line's first word and ending where the
+next line starts. For each scene: start, end, the line, and one
+sentence on what is on screen. Use the channel brief. Then show me
+the scenes as a table, and flag any scene under 2 seconds.
